@@ -7,6 +7,7 @@
 #include <boost/date_time/local_time/local_time.hpp>
 #include <boost/date_time/gregorian/gregorian.hpp>
 #include <string_view>
+/*REQUIRES BOOST LIBRARIES 1.82 */
 
 using std::string_literals::operator""s;
 using std::string_view_literals::operator""sv;
