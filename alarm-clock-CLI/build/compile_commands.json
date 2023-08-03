@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/memco/code-stuff/learncpp/karan-Projects/alarm-clock-CLI/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/alarm-clock-CLI.dir/main.cpp.o -c /home/memco/code-stuff/learncpp/karan-Projects/alarm-clock-CLI/main.cpp",
+  "file": "/home/memco/code-stuff/learncpp/karan-Projects/alarm-clock-CLI/main.cpp",
+  "output": "CMakeFiles/alarm-clock-CLI.dir/main.cpp.o"
+}
+]
